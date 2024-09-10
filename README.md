@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexadre-lima&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="https://www.instagram.com/alexandre.lima013/"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexadre-lima&hide_title=True&hide_rank=False&show_icons=True&include_all_commits=false&count_private=True&disable_animations=True&theme=dark&locale=en&hide_border=True" height="150" alt="https://www.instagram.com/alexandre.lima013/"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexadre-lima&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="https://www.linkedin.com/in/alexandre-lima-59a2aa251/"  />
 </div>
 
