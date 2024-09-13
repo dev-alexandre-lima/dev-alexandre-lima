@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-alexandre-lima&hide_title=True&hide_rank=false&show_icons=True&include_all_commits=True&count_private=True&disable_animations=True&theme=dark&locale=en&hide_border=True" height="170px"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-alexandre&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="170px" alt="https://www.linkedin.com/in/alexandre-lima-59a2aa251/"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-alexandre-lima&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="170px" alt="https://www.linkedin.com/in/alexandre-lima-59a2aa251/"  />
 </div>
 
 ###
