@@ -25,17 +25,17 @@
 
 <h2>Estatitcas:</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-alexandre-lima&hide_title=True&hide_rank=false&show_icons=True&include_all_commits=True&count_private=True&disable_animations=True&theme=dark&locale=en&hide_border=True" height="200px"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-alexandre-lima&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="200px" alt="https://www.linkedin.com/in/alexandre-lima-59a2aa251/"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-alexandre-lima&hide_title=True&hide_rank=False&show_icons=False&include_all_commits=True&count_private=False&disable_animations=False&theme=dark&locale=en&hide_border=False" height="140px"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-alexandre-lima&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="250"  />
 </div>
 
 ###
 
 <h2>Contatos:</h2>
 <div align="center">
- <a href="https://www.instagram.com/alexandre.lima013/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+ <a href="https://www.instagram.com/alexandre.lima013/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35px" alt="instagram logo"  />
  </a>
-  <a href="https://www.linkedin.com/in/alexandre-lima-59a2aa251/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" href="https://www.linkedin.com/in/alexandre-lima-59a2aa251/" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/alexandre-lima-59a2aa251/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" href="https://www.linkedin.com/in/alexandre-lima-59a2aa251/" height="35px" alt="linkedin logo"  /></a>
 </div>
 
 ###
