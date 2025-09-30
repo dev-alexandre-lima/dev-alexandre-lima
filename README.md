@@ -33,9 +33,9 @@
 
 <h2>Contatos:</h2>
 <div align="center">
- <a href="https://www.instagram.com/alexandre.lima013/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35px" alt="instagram logo"  />
+ <a href="https://www.instagram.com/alexandre.lima013/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" target="_blank" height="35px" alt="instagram logo"  />
  </a>
-  <a href="https://www.linkedin.com/in/alexandre-lima-59a2aa251/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" href="https://www.linkedin.com/in/alexandre-lima-59a2aa251/" height="35px" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/alexandre-lima-59a2aa251/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"&href="https://www.linkedin.com/in/alexandre-lima-59a2aa251/" target="_blank" height="35px" alt="linkedin logo"  /></a>
 </div>
 
 ###
