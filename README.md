@@ -1,6 +1,12 @@
-<h2 align="left">Olá, eu sou Alexandre!</h2>
+<h2 align="left">Olá, eu sou Alexandre Lima!</h2>
 
 ###
+<h2>Sobre mim:</h2>
+<p>Eu estudante de tecnico de redes de computadores do instituto federal de sergipe.<br>
+Apaixonado por tecnologia e estou sempre em buscas de novas aventuras, e desenvolvimento pessoal.</p>
+
+###
+
 <h2 align="left">Tecnologias:</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
