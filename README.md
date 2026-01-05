@@ -2,8 +2,7 @@
 
 ###
 <h2>Sobre mim:</h2>
-<p>Eu estudante de tecnico de redes de computadores do instituto federal de sergipe.<br>
-Apaixonado por tecnologia e estou sempre em buscas de novas aventuras, e desenvolvimento pessoal.</p>
+<p>Sou estudante do curso Técnico em Redes de Computadores no Instituto Federal de Sergipe. Apaixonado por tecnologia, estou sempre em busca de novos desafios, aprendizado contínuo e desenvolvimento pessoal.</p>
 
 ###
 
