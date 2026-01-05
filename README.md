@@ -27,14 +27,6 @@
 
 ###
 
-<h2>Estatitcas:</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-alexandre-lima&hide_title=True&hide_rank=False&show_icons=False&include_all_commits=True&count_private=False&disable_animations=False&theme=dark&locale=en&hide_border=False" height="140px"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-alexandre-lima&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="250"  />
-</div>
-
-###
-
 <h2>Contatos:</h2>
 <div align="center">
  <a href="https://www.instagram.com/alexandre.lima013/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35px" alt="instagram logo"  />
