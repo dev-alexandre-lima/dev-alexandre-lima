@@ -3,13 +3,16 @@
 ###
 <h2>Sobre mim:</h2>
 <p align="center">Sou estudante do curso Técnico em Redes de Computadores no Instituto Federal de Sergipe. <br>
-  Apaixonado por tecnologia, estou sempre em busca de novos desafios, aprendizado contínuo e desenvolvimento pessoal.</p>
+  Apaixonado por tecnologia, estou sempre em busca de novos desafios, aprendizado contínuo e desenvolvimento pessoal.</p> 
 
 ###
-
- 
-
-###
+<div>
+  <h2>Tecnologias que estou estudando:</h2>
+  <ul>
+    <li>Python</li>
+    <li>Java (Iniciante)</li>
+  </ul>
+</div>
 
 <h2 align="left">Tecnologias:</h2>
 <div align="center">
