@@ -2,7 +2,7 @@
 
 ###
 <h2>Sobre mim:</h2>
-<p align="center">SAtuo como Assistente Administrativo no segmento de certificação digital, com experiência em rotinas administrativas e processos operacionais. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas pela Unigrande e do curso Técnico em Redes de Computadores pelo Instituto Federal de Sergipe (IFS).
+<p align="center">Atuo como Assistente Administrativo no segmento de certificação digital, com experiência em rotinas administrativas e processos operacionais. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas pela Unigrande e do curso Técnico em Redes de Computadores pelo Instituto Federal de Sergipe (IFS).
 
 Possuo conhecimentos em segurança da informação, lógica de programação, Python, JavaScript, HTML e CSS, além de interesse em infraestrutura de redes e suporte técnico.
 
